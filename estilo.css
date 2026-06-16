@@ -1,9 +1,11 @@
 body{
-    background-color: mediumorchid;
+    background-color: rgb(219, 137, 240);
     color: aliceblue;
 }
 
 .cabecalho{
-    background-color: mediumpurple;
+    background-color: rgb(176, 145, 238);
     text-align: center;
+    padding: 30px;
+
 }
