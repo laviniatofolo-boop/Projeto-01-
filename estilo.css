@@ -1,11 +1,18 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
 body{
     background-color: rgba(166, 245, 219, 0.788);
     color: black;
+    font-family: "Cormorant", serif;
 }
 
 .cabecalho{
     background-color: rgba(238, 145, 230, 0.842);
     text-align: center;
     padding: 30px;
+
 
 }
