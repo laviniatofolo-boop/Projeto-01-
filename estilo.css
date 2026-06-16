@@ -2,3 +2,8 @@ body{
     background-color: mediumorchid;
     color: aliceblue;
 }
+
+.cabecalho{
+    background-color: mediumpurple;
+    text-align: center;
+}
