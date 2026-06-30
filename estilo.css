@@ -29,5 +29,5 @@ main{
 }
 article{
     display: flex;
-    background-color: darkturquoise;
+    background-color: rgba(0, 206, 209, 0.568);
 }
