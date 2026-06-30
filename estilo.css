@@ -18,8 +18,8 @@ body{
 
 }
 img{
-    width: 250px;
-    height: 250px;
+    width: 90px;
+    height: 90px;
 }
 main{
     color: black;
@@ -29,5 +29,5 @@ main{
 }
 article{
     display: flex;
-    background-color: lightpink;
+    background-color: darkturquoise;
 }
