@@ -20,5 +20,10 @@ body{
 img{
     width: 250px;
     height: 250px;
-
+}
+main{
+    color: aliceblue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
