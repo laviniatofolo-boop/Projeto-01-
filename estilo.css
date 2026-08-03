@@ -30,5 +30,15 @@ main{
 article{
     display: flex;
     background-color: rgba(0, 209, 209, 0.459);
-    
+}
+button{
+
+
+    background-color: aliceblue;
+    color: aquamarine;
+    padding: 34px;
+    border-radius: 20px;
+    width: 100px;
+
+
 }
